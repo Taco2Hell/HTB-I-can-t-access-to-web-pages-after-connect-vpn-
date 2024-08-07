@@ -19,7 +19,7 @@ Now type `ip_machine`  `website_domain` between of them tab (you can see 10.10.1
 
 ![Screenshot from 2024-08-07 19-41-48](https://github.com/user-attachments/assets/011a0dbd-94bb-4264-8933-13e5dcd6a8fd) <br>
 
-you can get the website_domain from url after stop reload the website 
+you can get the `website_domain` from url after stop reload the website 
 
 ![Screenshot from 2024-08-07 20-05-55](https://github.com/user-attachments/assets/1a1c8f1a-415c-4c54-ad28-9855537f9389)
 
