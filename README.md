@@ -10,4 +10,4 @@
 ### you can see i can ping it but why can't access to web page the problem maybe be localhost issue <br>
 ![Screenshot from 2024-08-07 19-22-34](https://github.com/user-attachments/assets/24be9bb4-e209-483d-8934-d070ccf0c697) <br>
 
-so type nano /etc/hosts  be careful hosts not host  
+so type nano `/etc/hosts`  be careful hosts not host  <br>
