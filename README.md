@@ -24,7 +24,12 @@ you can get the website_domain from url after stop reload the website
 ![Screenshot from 2024-08-07 20-05-55](https://github.com/user-attachments/assets/1a1c8f1a-415c-4c54-ad28-9855537f9389)
 
 
-Then press `Ctrl+x` , type `y` or `yes` and `Enter`
+Then press `Ctrl+x` , type `y` or `yes` and `Enter` <br>
+
+
+### you can see the website now 
+
+![Screenshot from 2024-08-07 20-09-00](https://github.com/user-attachments/assets/fbae0d96-d733-4ebc-bc86-053fb6530dac)
 
 
 
