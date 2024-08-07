@@ -14,7 +14,7 @@ so type `sudo nano /etc/hosts` be careful hosts not host necessary `sudo` comman
 
 ![Screenshot from 2024-08-07 19-41-04](https://github.com/user-attachments/assets/2a3686c8-bb0b-4ebf-8b43-e4b9dcea38bd) <br>
 
-Now type `ip_machine`  `website_domain` between of them tab
+Now type `ip_machine`  `website_domain` between of them tab (you can see 10.10.11.221  2million.htb)
 
 ![Screenshot from 2024-08-07 19-41-48](https://github.com/user-attachments/assets/011a0dbd-94bb-4264-8933-13e5dcd6a8fd) <br>
 
