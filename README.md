@@ -8,6 +8,7 @@
 2. if the first one doesn't work try this : <br>
 
 ### you can see i can ping it but why can't access to web page the problem maybe be localhost issue <br>
+
 ![Screenshot from 2024-08-07 19-22-34](https://github.com/user-attachments/assets/dfcc7339-29e0-4e5c-bf20-87227fdd4270) <br>
 
 so type `sudo nano /etc/hosts` be careful hosts not host necessary `sudo` command to get permission to write this file <br>
@@ -17,6 +18,10 @@ so type `sudo nano /etc/hosts` be careful hosts not host necessary `sudo` comman
 Now type `ip_machine`  `website_domain` between of them tab (you can see 10.10.11.221  2million.htb)
 
 ![Screenshot from 2024-08-07 19-41-48](https://github.com/user-attachments/assets/011a0dbd-94bb-4264-8933-13e5dcd6a8fd) <br>
+
+you can get the website_domain from url after stop reload the website 
+
+![Screenshot from 2024-08-07 20-05-55](https://github.com/user-attachments/assets/1a1c8f1a-415c-4c54-ad28-9855537f9389)
 
 
 Then press `Ctrl+x` , type `y` or `yes` and `Enter`
