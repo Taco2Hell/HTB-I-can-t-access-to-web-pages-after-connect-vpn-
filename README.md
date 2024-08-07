@@ -11,7 +11,7 @@ if you can't access to web pages just reload without display anything in Hack Th
 
 ![Screenshot from 2024-08-07 19-22-34](https://github.com/user-attachments/assets/dfcc7339-29e0-4e5c-bf20-87227fdd4270) <br>
 
-so type `sudo nano /etc/hosts` be careful hosts not host necessary `sudo` command to get permission to write this file <br>
+so type `sudo nano /etc/hosts` be careful hosts not host , necessary `sudo` command to get permission to write this file <br>
 
 ![Screenshot from 2024-08-07 19-41-04](https://github.com/user-attachments/assets/2a3686c8-bb0b-4ebf-8b43-e4b9dcea38bd) <br>
 
