@@ -1,4 +1,4 @@
-# HTB-I-can-t-access-to-web-pages-after-connect-vpn-
+# HTB-I-can't-access-to-web-pages-after-connect-vpn-
 ### if you can't access to web pages just reload without display anything in Hack The Box machines <br>
 
 
